@@ -1,0 +1,136 @@
+reactorType:
+  - type: BWR
+    burnup: 45
+    kpd: 0.343
+    enrichment: 0.041
+    termalCapacity: 3572
+    electricalCapacity: 1252
+    lifeTime: 60
+    firstLoad: 128.00
+    source: YAML
+  - type: ABWR
+    burnup: 46.40
+    kpd: 0.3655
+    enrichment: 0.036
+    termalCapacity: 4500
+    electricalCapacity: 1645
+    lifeTime: 60
+    firstLoad: 128.00
+    source: YAML
+  - type: EPR
+    burnup: 36.10
+    kpd: 0.3515
+    enrichment: 0.032
+    termalCapacity: 3992
+    electricalCapacity: 1404.5
+    lifeTime: 60
+    firstLoad: 140.66
+    source: YAML
+  - type: MAGNOX
+    burnup: 4.5
+    kpd: 0.23
+    enrichment: 0.01
+    termalCapacity: 728
+    electricalCapacity: 184
+    lifeTime: 60
+    firstLoad: 120
+    source: YAML
+  - type: BN
+    burnup: 140
+    kpd: 0.4205
+    enrichment: 0.21
+    termalCapacity: 2800
+    electricalCapacity: 1220
+    lifeTime: 60
+    firstLoad: 50.4
+    source: YAML
+  - type: PWR
+    burnup: 42.0
+    kpd: 0.34
+    enrichment: 0.045
+    termalCapacity: 3411
+    electricalCapacity: 1150
+    lifeTime: 50
+    firstLoad: 74.0
+    source: YAML
+  - type: CPR_1000
+    burnup: 52.0
+    kpd: 0.351
+    enrichment: 0.045
+    termalCapacity: 2900
+    electricalCapacity: 1021
+    lifeTime: 40
+    firstLoad: 77.0
+    source: YAML
+  - type: CANDU
+    burnup: 8
+    kpd: 0.30
+    enrichment: 0.0071
+    termalCapacity: 2343
+    electricalCapacity: 742
+    lifeTime: 60
+    firstLoad: 38.9
+    source: YAML
+  - type: PHWR
+    burnup: 8
+    kpd: 0.30
+    enrichment: 0.0071
+    termalCapacity: 2343
+    electricalCapacity: 742
+    lifeTime: 60
+    firstLoad: 38.9
+    source: YAML
+  - type: KLT_40
+    burnup: 42
+    kpd: 0.30
+    enrichment: 0.16
+    termalCapacity: 150
+    electricalCapacity: 32
+    lifeTime: 36
+    firstLoad: 0.007
+    source: YAML
+  - type: PWR_TEST
+    burnup: 40
+    kpd: 0.33
+    enrichment: 0.044
+    termalCapacity: 3200
+    electricalCapacity: 1056
+    lifeTime: 60
+    firstLoad: 79.84
+    source: YAML
+  - type: CANDU
+    burnup: 8
+    kpd: 0.3
+    enrichment: 0.0071
+    termalCapacity: 2343
+    electricalCapacity: 742
+    lifeTime: 60
+    firstLoad: 38.9
+    source: YAML
+  - type: PHWR
+    burnup: 8
+    kpd: 0.3
+    enrichment: 0.0071
+    termalCapacity: 2343
+    electricalCapacity: 742
+    lifeTime: 60
+    firstLoad: 38.9
+    source: YAML
+  - type: KLT-40
+    burnup: 42
+    kpd: 0.3
+    enrichment: 0.16
+    termalCapacity: 150
+    electricalCapacity: 32
+    lifeTime: 36
+    firstLoad: 0.007
+    source: YAML
+  - type: PWR
+    burnup: 40
+    kpd: 0.33
+    enrichment: 0.044
+    termalCapacity: 3200
+    electricalCapacity: 1056
+    lifeTime: 60
+    firstLoad: 79.84
+    source: YAML
